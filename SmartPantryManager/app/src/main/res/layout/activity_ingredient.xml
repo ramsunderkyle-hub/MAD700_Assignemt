@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+<TextView android:id="@+id/formTitle" style="@style/PageTitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Add ingredient"/>
+<ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:fillViewport="true"><LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="16dp">
+<TextView style="@style/Body" android:labelFor="@id/nameInput" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Ingredient name"/>
+<EditText android:id="@+id/nameInput" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="e.g. tomatoes" android:inputType="textCapSentences" android:maxLength="60"/>
+<TextView style="@style/Body" android:labelFor="@id/quantityInput" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Quantity"/>
+<EditText android:id="@+id/quantityInput" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="e.g. 2" android:inputType="numberDecimal"/>
+<TextView style="@style/Body" android:labelFor="@id/unitInput" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Unit"/>
+<Spinner android:id="@+id/unitInput" android:layout_width="match_parent" android:layout_height="48dp"/>
+<TextView style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Optional expiry date"/>
+<Button android:id="@+id/pickExpiry" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Choose expiry date"/>
+<Button android:id="@+id/clearExpiry" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Clear expiry date"/>
+<TextView android:id="@+id/formError" style="@style/Body" android:textColor="#A32626" android:accessibilityLiveRegion="polite" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+<Button android:id="@+id/saveIngredient" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Save ingredient"/>
+<Button android:id="@+id/cancelIngredient" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Cancel"/>
+</LinearLayout></ScrollView><include layout="@layout/navigation"/></LinearLayout>

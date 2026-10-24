@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Tomato and egg scramble",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "tomato",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash and chop the tomato. Beat the eggs.\n2. Heat the oil in a non-stick pan and soften the tomato.\n3. Add the eggs and stir until fully set. Serve hot."
+  },
+  {
+    "name": "Cheese toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "cheese",
+        "quantity": 40,
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Place the cheese on the bread.\n2. Grill on a tray until the cheese melts and the bread is crisp."
+  },
+  {
+    "name": "Banana oat pancakes",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "oat",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "egg",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Mash the banana and mix with finely crushed oats and the egg.\n2. Heat the oil in a non-stick pan.\n3. Cook small pancakes on both sides until firm and cooked through."
+  },
+  {
+    "name": "Apple yoghurt bowl",
+    "ingredients": [
+      {
+        "name": "apple",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "yoghurt",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "oat",
+        "quantity": 30,
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Wash and chop the apple.\n2. Spoon the yoghurt into a bowl and add the apple and oats."
+  },
+  {
+    "name": "Tomato pasta",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "water",
+        "quantity": 1000,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Boil the pasta in the water until tender, then drain.\n2. Wash and chop the tomatoes. Soften them in the oil.\n3. Stir the pasta into the tomatoes and heat through."
+  },
+  {
+    "name": "Garlic rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "garlic",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": 5,
+        "unit": "ml"
+      },
+      {
+        "name": "water",
+        "quantity": 250,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Peel and chop the garlic. Soften it in the oil.\n2. Add rice and water and bring to a boil.\n3. Cover and simmer until the rice is tender and the water is absorbed."
+  },
+  {
+    "name": "Carrot soup",
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "water",
+        "quantity": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "oil",
+        "quantity": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Peel and chop the carrots and onion.\n2. Soften the onion in oil, then add carrots and water.\n3. Simmer until soft, then carefully mash or blend."
+  },
+  {
+    "name": "Potato and egg pan",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "egg",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash and cut potatoes into small cubes.\n2. Cook in oil over medium-low heat, covered, until tender. Stir regularly.\n3. Beat and add eggs. Stir until the eggs are fully set."
+  },
+  {
+    "name": "Banana milk drink",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "milk",
+        "quantity": 250,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Peel and slice the banana.\n2. Blend with milk until smooth and serve immediately."
+  },
+  {
+    "name": "Egg toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "egg",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "milk",
+        "quantity": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "oil",
+        "quantity": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Beat the egg with the milk. Dip the bread into the mixture.\n2. Heat oil in a non-stick pan.\n3. Cook bread on both sides until the egg is fully set."
+  },
+  {
+    "name": "Tomato cheese salad",
+    "ingredients": [
+      {
+        "name": "tomato",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "cheese",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "oil",
+        "quantity": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash and slice the tomatoes.\n2. Cut the cheese and mix with the tomatoes and oil."
+  },
+  {
+    "name": "Spinach omelette",
+    "ingredients": [
+      {
+        "name": "spinach",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "egg",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash and chop spinach. Beat eggs in a bowl.\n2. Soften spinach in hot oil, then add the eggs.\n3. Cook until the eggs are fully set. Fold and serve."
+  },
+  {
+    "name": "Creamy oats",
+    "ingredients": [
+      {
+        "name": "oat",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": 200,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Combine the oats and milk in a small saucepan.\n2. Simmer gently, stirring, until the oats soften and thicken."
+  },
+  {
+    "name": "Peanut butter banana toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "peanut butter",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "banana",
+        "quantity": 1,
+        "unit": "piece"
+      }
+    ],
+    "steps": "1. Toast the bread in a toaster or under a grill.\n2. Spread peanut butter on the toast. Top with sliced banana."
+  },
+  {
+    "name": "Bean tomato pan",
+    "ingredients": [
+      {
+        "name": "bean",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Use cooked, drained beans. Wash and chop tomato and peel and chop onion.\n2. Soften onion in oil and add tomato. Cook until soft.\n3. Add the cooked beans and heat until steaming hot throughout."
+  },
+  {
+    "name": "Cucumber yoghurt salad",
+    "ingredients": [
+      {
+        "name": "cucumber",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "yoghurt",
+        "quantity": 100,
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Wash and dice the cucumber.\n2. Mix with yoghurt and serve immediately."
+  },
+  {
+    "name": "Pepper egg rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "water",
+        "quantity": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "pepper",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "egg",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Cook the rice in water until tender and the water is absorbed.\n2. Wash, deseed and chop the pepper, then soften in oil.\n3. Add egg and stir until fully cooked, then stir in hot rice."
+  },
+  {
+    "name": "Cheesy potato mash",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "cheese",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "water",
+        "quantity": 1000,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash, peel and chop the potatoes. Boil in the water until soft.\n2. Drain the water and mash potatoes with the milk and cheese.\n3. Warm gently until the cheese has melted."
+  },
+  {
+    "name": "Simple vegetable rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "carrot",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "pea",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "water",
+        "quantity": 300,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash and finely dice the carrot.\n2. Add rice, carrot, peas and water to a saucepan.\n3. Bring to a boil, cover and simmer until the rice and vegetables are tender."
+  },
+  {
+    "name": "Tomato cucumber sandwich",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2,
+        "unit": "piece"
+      },
+      {
+        "name": "tomato",
+        "quantity": 1,
+        "unit": "piece"
+      },
+      {
+        "name": "cucumber",
+        "quantity": 0.5,
+        "unit": "piece"
+      },
+      {
+        "name": "butter",
+        "quantity": 10,
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Wash and slice the tomato and cucumber.\n2. Butter the bread and layer the vegetables between the slices."
+  }
+]

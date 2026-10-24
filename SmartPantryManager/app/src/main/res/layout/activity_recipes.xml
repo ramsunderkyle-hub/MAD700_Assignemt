@@ -1,0 +1,9 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+<TextView style="@style/PageTitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Suggested recipes"/>
+<TextView style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Only recipes with every ingredient and enough quantity are shown. Expired items are excluded."/>
+<TextView android:id="@+id/recipeSummary" style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+<FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+<ListView android:id="@+id/recipeList" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingHorizontal="12dp"/>
+<TextView android:id="@+id/recipesEmpty" style="@style/Body" android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="No recipes match your pantry yet.
+Add more ingredients or check your quantities and units."/>
+</FrameLayout><include layout="@layout/navigation"/></LinearLayout>

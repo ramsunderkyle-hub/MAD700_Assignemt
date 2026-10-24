@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+<TextView style="@style/PageTitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Settings"/>
+<ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"><LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="16dp">
+<Switch android:id="@+id/expirySwitch" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="56dp" android:textSize="18sp" android:text="Show expiring soon labels"/>
+<TextView style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Highlights items expiring today or within 3 days on your pantry list. This setting is saved on this device."/>
+<TextView style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Units
+Mass: g and kg
+Volume: ml, l, tsp, tbsp and cup
+Count: piece
+
+1 tsp = 5 ml, 1 tbsp = 15 ml, 1 cup = 250 ml. Count, mass and volume are never mixed."/>
+<TextView style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="About Smart Pantry
+20 recipes stored locally. No account or internet needed. Pantry quantities are not deducted when a recipe is viewed. Check food freshness yourself before cooking."/>
+</LinearLayout></ScrollView><include layout="@layout/navigation"/></LinearLayout>

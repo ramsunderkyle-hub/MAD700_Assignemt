@@ -1,0 +1,10 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+<TextView style="@style/PageTitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="My pantry"/>
+<TextView style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Use what you have. Waste less."/>
+<TextView android:id="@+id/pantrySummary" style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+<Button android:id="@+id/addIngredient" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginHorizontal="12dp" android:text="+ Add ingredient"/>
+<FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+<ListView android:id="@+id/pantryList" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingHorizontal="12dp"/>
+<TextView android:id="@+id/pantryEmpty" style="@style/Body" android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Your pantry is empty.
+Tap Add ingredient to get started."/>
+</FrameLayout><include layout="@layout/navigation"/></LinearLayout>
